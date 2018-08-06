@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.umeshsp</groupId>
     <artifactId>json-comparator</artifactId>
-    <version>1.2</version>
+    <version>1.3-SNAPSHOT</version>
     <name>Json Compartor Utility</name>
     <description>Currently, the json comparators available over the web lack efficiency in the handling of differences in the hierarchy, data types and complex nesting. Also, there is a dire need for systematic logging of differences. This library will solve all the problems</description>
     <url>https://github.com/umeshsp/json-comparator</url>
@@ -22,7 +22,7 @@
         <connection>scm:git:git://github.com/umeshsp/json-comparator.git</connection>
         <developerConnection>scm:git:git@github.com:umeshsp/json-comparator.git</developerConnection>
         <url>https://github.com/dexecutor/dependent-tasks-executor</url>
-        <tag>json-comparator-1.2</tag>
+        <tag>HEAD</tag>
     </scm>
     <developers>
         <developer>
