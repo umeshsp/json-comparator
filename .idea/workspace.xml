@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e05efc6c-6d1c-4671-8658-e4a40d9a8017" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,8 +18,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            <state relative-caret-position="150">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -28,8 +27,8 @@
       <file leaf-file-name="CompareJson.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/json/CompareJson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
-              <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+            <state relative-caret-position="795">
+              <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,12 +47,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ola</find>
       <find>plug</find>
       <find>profi</find>
       <find>git</find>
       <find>git@github.com:umeshsp/json-comparator.git</find>
       <find>grou</find>
+      <find>ola</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -115,38 +114,6 @@
             <path>
               <item name="json-comparator" type="b2602c69:ProjectViewProjectNode" />
               <item name="json-comparator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-comparator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-comparator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-comparator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-comparator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-comparator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-comparator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-comparator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-comparator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="json" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-comparator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-comparator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="json-comparator" type="b2602c69:ProjectViewProjectNode" />
@@ -270,18 +237,17 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="3" show_stripe_button="false" sideWeight="0.49682876" weight="0.39124295" />
-      <window_info anchor="bottom" id="Messages" order="6" sideWeight="0.4982382" weight="0.37570623" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50214595" side_tool="true" weight="0.31444758" />
       <window_info anchor="bottom" id="Maven Projects" order="4" sideWeight="0.4989429" weight="0.42655367" />
-      <window_info active="true" anchor="bottom" id="Run" order="1" sideWeight="0.49964765" visible="true" weight="0.26836157" />
+      <window_info anchor="bottom" id="Run" order="1" sideWeight="0.49964765" weight="0.26836157" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.2881356" />
       <window_info anchor="bottom" x="21" y="316" width="1398" height="240" id="Terminal" order="2" sideWeight="0.49682876" weight="0.30932203" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.4964029" visible="true" weight="0.29598308" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" sideWeight="0.4964029" visible="true" weight="0.29598308" />
       <window_info anchor="bottom" id="Structure" order="14" sideWeight="0.5017618" side_tool="true" weight="0.37570623" />
       <window_info anchor="bottom" id="Ant Build" order="11" show_stripe_button="false" sideWeight="0.49682876" weight="0.42937854" />
       <window_info id="UI Designer" order="1" />
@@ -294,6 +260,7 @@
       <window_info anchor="bottom" id="Find" order="0" sideWeight="0.49964765" weight="0.34039548" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Messages" order="6" sideWeight="0.4982382" weight="0.37570623" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -302,38 +269,42 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="315">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/unitils/unitils-core/3.4.6/unitils-core-3.4.6.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/log/PrintDiff.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/json/CompareJson.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        <state relative-caret-position="795">
+          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/settings.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1678" />
+        <state relative-caret-position="195">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assertion_exceptions.log">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/json/CompareJson.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-491" />
+        <state relative-caret-position="915">
+          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/json/Test.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="195">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -349,8 +320,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/log/PrintDiff.java" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1678" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assertion_exceptions.log" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/json/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/json/CompareJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
         </state>
       </provider>
     </entry>
