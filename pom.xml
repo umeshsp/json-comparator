@@ -4,7 +4,7 @@
 
     <groupId>com.github.umeshsp</groupId>
     <artifactId>json-comparator</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <!-- https://mvnrepository.com/artifact/org.json/json -->
     <build>
         <pluginManagement>
@@ -113,6 +113,6 @@
         <connection>scm:git:git://github.com/umeshsp/json-comparator.git</connection>
         <developerConnection>scm:git:git@github.com:umeshsp/json-comparator.git</developerConnection>
         <url>https://github.com/dexecutor/dependent-tasks-executor</url>
-        <tag>json-comparator-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 </project>
